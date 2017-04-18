@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">kitchen</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_fridge">fridge</string>
+    <string name="title_activity_fridgesettings">fridgesettings</string>
+    <string name="title_activity_mainlight">mainlight</string>
+    <string name="title_activity_microwave">microwave</string>
+    <string name="title_activity_freezersettings">freezersettings</string>
+    <string name="title_activity_main_menu">main_menu</string>
+
+
+    <string name="fragment_main_menu">main_menu</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_start">StartActivity</string>
+</resources>
